@@ -1,0 +1,3 @@
+Delete this later, this is jsut notes for myself before I begin
+
+The repository file is basically the DAO in the previous project, however this context is within week 10 information so look at that first.
